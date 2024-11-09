@@ -21,4 +21,4 @@
 ### Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prithvi-ghatani-a9a433290/)
-[![Email](https://img.shields.io/badge/Email-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:prithvi@example.com)
+[![Email](https://img.shields.io/badge/Email-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:prithvighatani7@gmail.com)
