@@ -1,13 +1,11 @@
 # Hi there, I'm Prithvi Ghatani! 👋
 
-🚀 Passionate about learning, creating, and growing in the world of web development.  
-📚 Forever curious and driven by a love for understanding and improving.
-
 ### About Me
 
 - 💻 Full Stack Developer, aiming to build meaningful, structured, and high-quality applications.
 - 🌱 Currently exploring: NextJs.
 - 📖 Core values: **Curiosity**, **Growth**, **Impact**.
+- Website: [https://www.prithvighatani.com.np](https://www.prithvighatani.com.np)
 
 ### Tech Stack
 
@@ -19,6 +17,5 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Get in Touch
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prithvi-ghatani-a9a433290/)
 [![Email](https://img.shields.io/badge/Email-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:prithvighatani7@gmail.com)
